@@ -1,9 +1,16 @@
 import React from 'react';
+import Courses from './courses.js';
 
 
 function App() {
   return (
-    <h1>Hello world</h1>
+    <center>
+    <h1>Assignment # 03 </h1>
+    <hr/>
+    <hr/>
+    <Courses Online="React" Onsite ="IOT" />
+
+    </center>
   );
 }
 
