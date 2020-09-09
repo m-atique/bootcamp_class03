@@ -8,7 +8,7 @@ function App() {
     <h1>Assignment # 03 </h1>
     <hr/>
     <hr/>
-    <Courses Online="React" Onsite ="IOT" />
+    <Courses Online="React" Onsite ="Internet of Things" />
 
     </center>
   );
